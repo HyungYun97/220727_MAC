@@ -4,4 +4,4 @@ S = input()
 for i in('abcdefghijklmnopqrstuvwxyz'):
     print(S.find(i), end = ' ') # end = ' ' 개행문자 \n 이 기본적으로 들어가 있음
 
-    # sep = ' ' -> 문자와 문자 사이에 어떤것을 출력할지 
+    # sep = ' ' -> 문자와 문자 사이에 어떤것을 출력할지 출력값이 나옴
