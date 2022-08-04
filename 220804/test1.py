@@ -1,1 +1,4 @@
-print(last)
+from cgi import test
+
+
+print(test)
