@@ -3,3 +3,6 @@ print('git repository 이슈 해결 ')
 print('한번 더 테스트')
 
 print('Last')
+
+a = int(input())
+print(a)
